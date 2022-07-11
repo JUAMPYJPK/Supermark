@@ -1,4 +1,5 @@
 Bueno este es mi proyecto la verdad estuve muy complicado con el tiempo de poder terminarlo bien por el tema, facultad, trabajo y el cuidado de mis hijos. 
+Decidi hacer solo este proyecto debido a que no queria comprometer el tiempo de los demas compañeros y debido a mi disponobilidad horaria.
 Agradezco toda la colaboracion de la profe en este proyecto muy practicas sus clases y muy clara.
 El paquete del proyeto es conexion_bd no supe como modificar el nombre jaja. 
 A lo largo del proyecto tuve algunas complicaciones y tuve que editar varios datos de la base de datos.
